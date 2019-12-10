@@ -8,7 +8,7 @@ public class Ejercicio2 {
 	        System.out.println(a.length);
 	        System.out.println(n);
 	        System.out.println(a);//comentario
-	        
+	        System.out.println("");
 	        
 	    }
 
