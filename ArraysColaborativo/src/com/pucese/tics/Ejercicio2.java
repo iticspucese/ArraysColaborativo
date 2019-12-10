@@ -6,6 +6,9 @@ public class Ejercicio2 {
 	        int n = 1000;
 	        int[] a = new int[n*n*n*n];
 	        System.out.println(a.length);
+	        System.out.println(n);
+	        
+	        
 	    }
 
 }
