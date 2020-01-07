@@ -1,4 +1,4 @@
-package LadyV;
+package com.pucese.tics;
 
 import java.util.*;
 //8 queens checker. A permutation of the integer 0 to N-1 corresponds to a placement of 
