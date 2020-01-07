@@ -1,4 +1,4 @@
-package LadyV;
+package com.pucese.tics;
 
 //Random permutation. Write a program Permutation.java so that it takes a 
 //command-line argument N and prints a random permutation of the integers 0 through N-1.
